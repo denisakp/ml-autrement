@@ -45,15 +45,15 @@ Le livre est en cours de rédaction. Version bêta prévue **début 2027**.
 | Fondations | 1 - Ce qu'est vraiment le Machine Learning | ✅ |
 | Fondations | 2 - Apprivoiser les données | ✅ |
 | Fondations | 3 - Évaluer un modèle (sans se mentir) | ✅ |
-| Penser par problème | 4 - Prédire un nombre : la régression | 🔲 |
-| Penser par problème | 5 - Classer des éléments : la classification | 🔲 |
-| Penser par problème | 6 - Sans labels : clustering & réduction | 🔲 |
-| Penser par problème | 7 - Détecter ce qui sort de l'ordinaire | 🔲 |
-| Penser par problème | 8 - Apprendre par renforcement | 🔲 |
-| Modèles fondamentaux | 9 - Comprendre les LLMs (sans bullshit) | 🔲 |
-| Modèles fondamentaux | 10 - Prompt Engineering comme compétence | 🔲 |
-| Modèles fondamentaux | 11 - Fine-tuning : quand et pourquoi | 🔲 |
-| Modèles fondamentaux | 12 - RAG : connecter un LLM à tes données | 🔲 |
+| Penser par problème | 4 - Prédire un nombre : la régression | ✅ |
+| Penser par problème | 5 - Classer des éléments : la classification | ✅ |
+| Penser par problème | 6 - Sans labels : clustering & réduction | ✅ |
+| Penser par problème | 7 - Détecter ce qui sort de l'ordinaire | ✅ |
+| Penser par problème | 8 - Apprendre par renforcement | ✅ |
+| Modèles fondamentaux | 9 - Comprendre les LLMs (sans bullshit) | ✅ |
+| Modèles fondamentaux | 10 - Prompt Engineering comme compétence | ✅ |
+| Modèles fondamentaux | 11 - Fine-tuning : quand et pourquoi | ✅ |
+| Modèles fondamentaux | 12 - RAG : connecter un LLM à tes données | ✅ |
 | Construire des systèmes | 13 - Les agents IA | 🔲 |
 | Construire des systèmes | 14 - ML classique + LLM : le meilleur des deux | 🔲 |
 | Construire des systèmes | 15 - Mettre en production (MLOps simplifié) | 🔲 |
